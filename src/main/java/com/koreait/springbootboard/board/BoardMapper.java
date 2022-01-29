@@ -10,5 +10,4 @@ import java.util.List;
 public interface BoardMapper {
     List<BoardVo> selBoardList(BoardDto dto);
     BoardVo selBoard(BoardDto dto);
-
 }

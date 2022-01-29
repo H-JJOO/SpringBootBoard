@@ -13,6 +13,4 @@ public class BoardController {
     //화면띄우기 용도
     @GetMapping("/list")
     public void list(Model model) {}
-
-
 }
