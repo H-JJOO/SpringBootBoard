@@ -58,6 +58,4 @@ public class UserService {
         userUtils.setLoginUser(dbUser);
         return 1; //로그인 성공
     }
-
-
 }
