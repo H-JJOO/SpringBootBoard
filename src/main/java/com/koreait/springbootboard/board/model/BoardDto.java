@@ -8,4 +8,9 @@ import lombok.Setter;
 public class BoardDto {
     private int iboard;
     private int icategory;
+    private int recordCount;
+    private int currentPage;
+    private int startIdx;
+
+
 }

@@ -6,5 +6,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class BoardVo extends BoardEntity {
-    private String usernm;
+    private String username;
 }
